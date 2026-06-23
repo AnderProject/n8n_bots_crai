@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"19020214-fb72-470a-9e8d-3e410610d463","ts":"2026-06-20T23:10:09.538-04:00","eventName":"n8n.audit.workflow.activated","message":"n8n.audit.workflow.activated","payload":{"workflowId":"eKkZZ3OHBqF80AI7","workflowName":"CRAI Chatbot V5","activeVersionId":"acb550ab-5f7b-41d4-8def-c218809b2438","activationMode":"init"}}
+{"__type":"$$EventMessageConfirm","confirm":"19020214-fb72-470a-9e8d-3e410610d463","ts":"2026-06-20T23:10:09.538-04:00","source":{"id":"0","name":"eventBus"}}
